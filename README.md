@@ -90,10 +90,6 @@ The project configuration has been all defined in the CONFIG.py script. Some of 
 
 </details>
 
-## <div>Author</div>
-
-Muhammad Nouman Ahsan
-
 ## <div>References</div>
 
 * YOLOv5 https://github.com/ultralytics/yolov5
